@@ -1,0 +1,3 @@
+a bags contain 2 b bags, 2 c bags.
+b bags contain no other bags.
+c bags contain no other bags.
