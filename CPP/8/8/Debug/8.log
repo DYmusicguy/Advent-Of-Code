@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Projects\Advent_of_Code\Advent-Of-Code\CPP\8\8\Source.cpp(84,46): warning C4018:  '<': signed/unsigned mismatch
+  8.vcxproj -> C:\Projects\Advent_of_Code\Advent-Of-Code\CPP\8\Debug\8.exe
